@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SDETSuite" duration-ms="124275" started-at="2020-06-22T17:47:04 IST" finished-at="2020-06-22T17:49:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="124275" started-at="2020-06-22T17:47:04 IST" finished-at="2020-06-22T17:49:08 IST">
+      <class name="SampleAutomation.com.webapps.automate.Mayur_Assignment_03">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_03@3cb1ffe6]" name="setUpMethod" is-config="true" duration-ms="3416" started-at="2020-06-22T17:47:04 IST" finished-at="2020-06-22T17:47:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="makeMyTripTest()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_03@3cb1ffe6]" name="makeMyTripTest" duration-ms="59598" started-at="2020-06-22T17:48:08 IST" finished-at="2020-06-22T17:49:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeMyTripTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_03@3cb1ffe6]" name="tearDownMethod" is-config="true" duration-ms="872" started-at="2020-06-22T17:49:07 IST" finished-at="2020-06-22T17:49:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- SampleAutomation.com.webapps.automate.Mayur_Assignment_03 -->
+      <class name="SampleAutomation.com.webapps.automate.Mayur_Assignment_02">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_02@2a742aa2]" name="setUpMethod" is-config="true" duration-ms="3404" started-at="2020-06-22T17:47:01 IST" finished-at="2020-06-22T17:47:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testInvalidLogIn()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_02@2a742aa2]" name="testInvalidLogIn" duration-ms="17365" started-at="2020-06-22T17:47:23 IST" finished-at="2020-06-22T17:47:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogIn -->
+        <test-method status="PASS" signature="testLanguageLogIn()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_02@2a742aa2]" name="testLanguageLogIn" duration-ms="27885" started-at="2020-06-22T17:47:40 IST" finished-at="2020-06-22T17:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLanguageLogIn -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_02@2a742aa2]" name="tearDownMethod" is-config="true" duration-ms="4392" started-at="2020-06-22T17:49:09 IST" finished-at="2020-06-22T17:49:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- SampleAutomation.com.webapps.automate.Mayur_Assignment_02 -->
+      <class name="SampleAutomation.com.webapps.automate.Mayur_Assignment_01">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_01@7d70d1b1]" name="setUpMethod" is-config="true" duration-ms="4559" started-at="2020-06-22T17:46:56 IST" finished-at="2020-06-22T17:47:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="demoQAtest()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_01@7d70d1b1]" name="demoQAtest" duration-ms="15074" started-at="2020-06-22T17:47:07 IST" finished-at="2020-06-22T17:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoQAtest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:SampleAutomation.com.webapps.automate.Mayur_Assignment_01@7d70d1b1]" name="tearDownMethod" is-config="true" duration-ms="231" started-at="2020-06-22T17:49:08 IST" finished-at="2020-06-22T17:49:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- SampleAutomation.com.webapps.automate.Mayur_Assignment_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- SDETSuite -->
+</testng-results>
